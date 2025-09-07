@@ -1,0 +1,14 @@
+University: Baylor University
+Total price for in-state students living off campus: $66,750.00
+
+University: Northwestern University
+Total price for in-state students living off campus: $81,283.00
+
+University: Southern Methodist University
+Total price for in-state students living off campus: $70,640.00
+
+University: Texas Christian University
+Total price for in-state students living off campus: $71,828.00
+
+University: Tulane University of Louisiana
+Total price for in-state students living off campus: $78,680.00

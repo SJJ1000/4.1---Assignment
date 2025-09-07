@@ -1,0 +1,86 @@
+University: Auburn University
+Graduation Rate for Women: 83%
+
+University: Baylor University
+Graduation Rate for Women: 81%
+
+University: Indiana University-Bloomington
+Graduation Rate for Women: 82%
+
+University: Iowa State University
+Graduation Rate for Women: 78%
+
+University: Michigan State University
+Graduation Rate for Women: 84%
+
+University: Northwestern University
+Graduation Rate for Women: 96%
+
+University: Ohio State University-Main Campus
+Graduation Rate for Women: 89%
+
+University: Purdue University-Main Campus
+Graduation Rate for Women: 85%
+
+University: Rutgers University-New Brunswick
+Graduation Rate for Women: 87%
+
+University: Southern Methodist University
+Graduation Rate for Women: 83%
+
+University: Temple University
+Graduation Rate for Women: 78%
+
+University: Texas A & M University-College Station
+Graduation Rate for Women: 86%
+
+University: Texas Christian University
+Graduation Rate for Women: 85%
+
+University: The Pennsylvania State University
+Graduation Rate for Women: 76%
+
+University: The University of Texas at Austin
+Graduation Rate for Women: 90%
+
+University: Tulane University of Louisiana
+Graduation Rate for Women: 87%
+
+University: United States Naval Academy
+Graduation Rate for Women: 87%
+
+University: University of Central Florida
+Graduation Rate for Women: 79%
+
+University: University of Florida
+Graduation Rate for Women: 91%
+
+University: University of Georgia
+Graduation Rate for Women: 90%
+
+University: University of Illinois Urbana-Champaign
+Graduation Rate for Women: 89%
+
+University: University of Maryland-College Park
+Graduation Rate for Women: 89%
+
+University: University of Michigan-Ann Arbor
+Graduation Rate for Women: 94%
+
+University: University of Minnesota-Twin Cities
+Graduation Rate for Women: 86%
+
+University: University of Missouri-Columbia
+Graduation Rate for Women: 78%
+
+University: University of South Carolina-Columbia
+Graduation Rate for Women: 81%
+
+University: University of South Florida
+Graduation Rate for Women: 78%
+
+University: University of Wisconsin-Madison
+Graduation Rate for Women: 91%
+
+University: Vanderbilt University
+Graduation Rate for Women: 94%

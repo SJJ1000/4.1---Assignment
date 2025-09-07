@@ -47,3 +47,35 @@ datastore = { "medical":[
 
       ]
 }
+
+
+outfile = open('retail_space.csv', 'w')
+outfile.write('room-number,use,sq-ft,price\n')
+
+list_of_office = datastore['medical']
+
+#for office in list_of_office:
+ #   roomno = office['room-number']
+  #  use = office['use']
+   # sqft = office['sq-ft']
+    #price = office['price']
+
+    #outfile.write(str(roomno)+','+ use + ',' + str(sqft) + ',' + str(price) + '\n')
+
+
+for office in datastore['medical']:
+    outfile.write(str(office['room-number'])+','+ office['use'] + ',' + str(office['sq-ft']) + ',' + str(office['price']) + '\n')
+
+outfile.close()
+
+import pickle
+
+pickle_file = open("datastore.dat","wb")
+pickle.dump(datastore,pickle_file)
+
+
+
+
+    
+    #print(type(office))
+    #print(office)
