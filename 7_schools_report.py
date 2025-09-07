@@ -21,9 +21,9 @@ import json
 from pathlib import Path
 
 
-TARGET_CONF_CODES = {372, 108, 107, 130}   # AAC, Big 12, Big Ten, SEC
-GRAD_WOMEN_MIN = 75.0
-INSTATE_OFFCAMPUS_MIN = 60000.0
+TARGET_CONF_CODES = {372, 108, 107, 130}   
+GRAD_WOMEN_MIN = 50.0
+INSTATE_OFFCAMPUS_MIN = 50000.0
 
 
 KEY_NAME = "instnm"
@@ -59,7 +59,7 @@ def to_number(x):
         return None
 
 
-# Report 1: Women grad > 75%
+# Report 1: Women grad > 50%
 lines = []
 for school in schools:
     if get_conf_code(school) not in TARGET_CONF_CODES:
@@ -72,10 +72,10 @@ for school in schools:
         lines.append("")
 
 report1 = "\n".join(lines).rstrip()
-Path("women_grad_over_75.txt").write_text(report1 + "\n", encoding="utf-8")
+Path("women_grad_over_50.txt").write_text(report1 + "\n", encoding="utf-8")
 
 
-# Report 2: Price off-campus > 60k
+# Report 2: Price off-campus > 50k
 lines = []
 for school in schools:
     if get_conf_code(school) not in TARGET_CONF_CODES:
@@ -88,8 +88,8 @@ for school in schools:
         lines.append("")
 
 report2 = "\n".join(lines).rstrip()
-Path("inst_price_offcampus_over_60k.txt").write_text(report2 + "\n", encoding="utf-8")
+Path("inst_price_offcampus_over_50k.txt").write_text(report2 + "\n", encoding="utf-8")
 
-print("Reports created: women_grad_over_75.txt, inst_price_offcampus_over_60k.txt")
+print("Reports created: women_grad_over_50.txt, inst_price_offcampus_over_50k.txt")
 
 

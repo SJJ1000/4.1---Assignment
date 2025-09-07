@@ -4,20 +4,35 @@ Graduation Rate for Women: 83%
 University: Baylor University
 Graduation Rate for Women: 81%
 
+University: East Carolina University
+Graduation Rate for Women: 70%
+
 University: Indiana University-Bloomington
 Graduation Rate for Women: 82%
 
 University: Iowa State University
 Graduation Rate for Women: 78%
 
+University: Kansas State University
+Graduation Rate for Women: 72%
+
+University: Louisiana State University and Agricultural & Mechanical College
+Graduation Rate for Women: 74%
+
 University: Michigan State University
 Graduation Rate for Women: 84%
+
+University: Mississippi State University
+Graduation Rate for Women: 68%
 
 University: Northwestern University
 Graduation Rate for Women: 96%
 
 University: Ohio State University-Main Campus
 Graduation Rate for Women: 89%
+
+University: Oklahoma State University-Main Campus
+Graduation Rate for Women: 68%
 
 University: Purdue University-Main Campus
 Graduation Rate for Women: 85%
@@ -37,8 +52,17 @@ Graduation Rate for Women: 86%
 University: Texas Christian University
 Graduation Rate for Women: 85%
 
+University: Texas Tech University
+Graduation Rate for Women: 65%
+
 University: The Pennsylvania State University
 Graduation Rate for Women: 76%
+
+University: The University of Alabama
+Graduation Rate for Women: 74%
+
+University: The University of Tennessee-Knoxville
+Graduation Rate for Women: 75%
 
 University: The University of Texas at Austin
 Graduation Rate for Women: 90%
@@ -49,20 +73,44 @@ Graduation Rate for Women: 87%
 University: United States Naval Academy
 Graduation Rate for Women: 87%
 
+University: University of Arkansas
+Graduation Rate for Women: 72%
+
 University: University of Central Florida
 Graduation Rate for Women: 79%
+
+University: University of Cincinnati-Main Campus
+Graduation Rate for Women: 75%
 
 University: University of Florida
 Graduation Rate for Women: 91%
 
+University: University of Florida-Online
+Graduation Rate for Women: 71%
+
 University: University of Georgia
 Graduation Rate for Women: 90%
+
+University: University of Houston
+Graduation Rate for Women: 67%
 
 University: University of Illinois Urbana-Champaign
 Graduation Rate for Women: 89%
 
+University: University of Iowa
+Graduation Rate for Women: 73%
+
+University: University of Kansas
+Graduation Rate for Women: 66%
+
+University: University of Kentucky
+Graduation Rate for Women: 70%
+
 University: University of Maryland-College Park
 Graduation Rate for Women: 89%
+
+University: University of Memphis
+Graduation Rate for Women: 56%
 
 University: University of Michigan-Ann Arbor
 Graduation Rate for Women: 94%
@@ -70,8 +118,17 @@ Graduation Rate for Women: 94%
 University: University of Minnesota-Twin Cities
 Graduation Rate for Women: 86%
 
+University: University of Mississippi
+Graduation Rate for Women: 69%
+
 University: University of Missouri-Columbia
 Graduation Rate for Women: 78%
+
+University: University of Nebraska-Lincoln
+Graduation Rate for Women: 69%
+
+University: University of Oklahoma-Norman Campus
+Graduation Rate for Women: 75%
 
 University: University of South Carolina-Columbia
 Graduation Rate for Women: 81%
@@ -84,3 +141,6 @@ Graduation Rate for Women: 91%
 
 University: Vanderbilt University
 Graduation Rate for Women: 94%
+
+University: West Virginia University
+Graduation Rate for Women: 67%
